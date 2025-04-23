@@ -48,7 +48,9 @@ Site web officiel de Sadou Volaille, vendeur de volailles à Abidjan
   </section>
 
   <footer>
-    <p>Contact : +225 01 XX XX XX | Abidjan, Côte d’Ivoire</p>
+    <p>Contact : +225 0799095005
+                 +225 0160690538
+        | Abidjan, Côte d’Ivoire</p>
   </footer>
 </body>
 </html>
